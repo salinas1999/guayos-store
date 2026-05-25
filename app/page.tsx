@@ -15,8 +15,7 @@ export default function GuayosStoreLanding() {
       price: '$220.000',
       oldPrice: '$410.000',
       image:
-        'https://ibb.co/ccr64BDn',
-    },
+        'https://i.ibb.co/1fmrFg8W/Guayos-PREDATOR-MANIA-Terreno-Firme-Gris-HQ2680-HM3-hover.avif ',
     {
       name: 'Puma Future Ultimate',
       price: '$299.000',
