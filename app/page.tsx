@@ -1,3 +1,4 @@
+'use client';
 import { ShoppingCart, Menu, Star, Truck, ShieldCheck, Phone } from 'lucide-react';
 
 export default function GuayosStoreLanding() {
