@@ -12,10 +12,10 @@ export default function GuayosStoreLanding() {
     },
     {
       name: 'Adidas Predator Elite',
-      price: '$350.000',
+      price: '$220.000',
       oldPrice: '$410.000',
       image:
-        'https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1200&auto=format&fit=crop',
+        'https://ibb.co/ccr64BDn',
     },
     {
       name: 'Puma Future Ultimate',
